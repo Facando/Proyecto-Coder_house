@@ -71,7 +71,7 @@ switch (menu) {
         break;
     default:
         alert("Opcion no valida");
-        console.log("github");
+        
         break;
 }
 
