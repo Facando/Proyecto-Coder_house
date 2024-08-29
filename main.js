@@ -40,6 +40,7 @@ function fecha(dia_n, mes_n, anio_n,diahoy, meshoy) {
 
 }
 
+
 const aniosfuturos = function (anio_n) {
     let anio_f = parseInt(prompt("Ingresa el anio que deseas saber"));
     anioResultado = anio_f - anio_n;
@@ -84,8 +85,3 @@ switch (menu) {
 
 
 
-
-
-
-/*
-cuanto falta para navidad y año nuevo*/
